@@ -1,0 +1,11 @@
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\bin\Debug\App11.exe.config
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\bin\Debug\App11.exe
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\bin\Debug\App11.pdb
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.csproj.AssemblyReference.cache
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.csproj.SuggestedBindingRedirects.cache
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.Form1.resources
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.Properties.Resources.resources
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.csproj.GenerateResource.cache
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.csproj.CoreCompileInputs.cache
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.exe
+E:\ProjetosCast\Csharp+Banco\Csharp+Banco\App11\obj\Debug\App11.pdb
